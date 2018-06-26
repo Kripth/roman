@@ -1,0 +1,5 @@
+name "roman"
+description "Roman numbers conversion"
+authors "Kripth"
+license "MIT"
+targetType "library"
